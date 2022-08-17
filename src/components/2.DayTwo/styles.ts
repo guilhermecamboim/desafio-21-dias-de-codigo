@@ -10,8 +10,8 @@ export const Container = styled.main`
   padding-left: 50px;
   align-items: center;
   justify-content: center;
-  max-width: 74rem;
-  height: calc(100vh - 10rem);
+  max-width: 100vw;
+  height: calc(150vh - 10rem);
   background-color: #eaebed;
 
   .H { 
