@@ -1,9 +1,9 @@
-import { DayTwo } from "./components/2.DayTwo"
+import { DayFour } from "./components/4.DayFour"
 
 function App() {
 
   return (
-      <DayTwo />
+      <DayFour />
   )
 }
 
